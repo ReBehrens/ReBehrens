@@ -64,3 +64,14 @@ Feel free to connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/rené-behrens-303a6a170/) 
 
 ![GitHub followers](https://img.shields.io/github/followers/ReBehrens?style=social)
+
+
+<img src="https://raw.githubusercontent.com/ReBehrens/ReBehrens/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ReBehrens&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
