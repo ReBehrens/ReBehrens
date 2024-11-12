@@ -19,7 +19,7 @@ I'm based in Germany and currently exploring the depths of Java development. Wit
 
 ## Skills & Technologies
 
-java,spring,maven,mysql,postgres,redis,js,react,html,css,sass,vite,docker,git,github,idea,vscodium,postman,cpp,arduino,raspberrypi
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres,redis,js,react,html,css,sass,vite,docker,git,github,idea,vscodium,postman,cpp,arduino,raspberrypi&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
