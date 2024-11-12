@@ -9,13 +9,17 @@
                                                 
 ```
 
-## Hi there! 👋
+## Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 I'm René Behrens, an aspiring Java Developer passionate about coding and problem-solving. Welcome to my GitHub profile!
 
 ## About Me
 
 I'm based in Germany and currently exploring the depths of Java development. With a keen interest in software engineering, I enjoy building projects that challenge my skills and expand my knowledge.
+
+## Skills & Technologies
+
+java,spring,maven,mysql,postgres,redis,js,react,html,css,sass,vite,docker,git,github,idea,vscodium,postman,cpp,arduino,raspberrypi
 
 ## Top Projects
 
