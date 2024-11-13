@@ -22,7 +22,7 @@ I'm based in Germany and currently exploring the depths of Java development. Wit
 ## Top Projects
 
 - [Project_SuperBnB](https://github.com/SuCoBootcamp24/Day85_24_09_17_Project_SuperBnB)
-  - A Apartment booking system. this Project is not done
+  - An apartment booking system. this Project is not done yet.
   - 🌐 Language: Java
 
 - [Morent_Backend](https://github.com/SuCoBootcamp24/Day113_EndProject_Morent_Backend)
@@ -51,9 +51,9 @@ I'm based in Germany and currently exploring the depths of Java development. Wit
 ## Organizations
 
 ### [SuCoBootcamp24](https://github.com/SuCoBootcamp24)
-- This organization contains projects and tasks from my retraining program to become a Java developer. Alongside my individual work, it includes team projects where I collaborated with other developers.
+- This organization contains projects and tasks from my training program to become a Java developer. Alongside my individual work, it includes team projects where I collaborated with other developers.
 
-### JaRe719
+### [JaRe719](https://github.com/JaRe719)
 <a src="https://github.com/JaRe719"><img src="https://avatars.githubusercontent.com/u/143851812?s=200&v=4" alt="JaRe719 Logo" width="100"/></a>
 - A hobbyist developer organization consisting of two developers. We work together on projects to explore new technologies and improve our skills.
 
