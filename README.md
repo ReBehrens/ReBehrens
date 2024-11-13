@@ -50,6 +50,16 @@ I'm based in Germany and currently exploring the depths of Java development. Wit
   -A Unique Birthday Gift for a Harry Potter Fan
   - 🌐 Language: C++
 
+## Organizations
+
+### [SuCoBootcamp24](https://github.com/SuCoBootcamp24)
+- This organization contains projects and tasks from my retraining program to become a Java developer. Alongside my individual work, it includes team projects where I collaborated with other developers.
+
+### JaRe719
+<a src="https://github.com/JaRe719"><img src="https://avatars.githubusercontent.com/u/143851812?s=200&v=4" alt="JaRe719 Logo" width="100"/></a>
+- A hobbyist developer organization consisting of two developers. We work together on projects to explore new technologies and improve our skills.
+
+
 ## GitHub Stats
 
 🚀 Public Repositories: 4 | 👥 Followers: 6 | 👤 Following: 10
