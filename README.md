@@ -21,7 +21,7 @@ I'm based in Germany and currently exploring the depths of Java development. Wit
 
 ## Top Projects
 
-- Morent_Poject
+- Gilded Dice
   - This is a hackathon project the theme was “Learning”. A kind of PnP game with a focus on financial planning.
   - 🌍 It is [deployed](https://gilded-dice-frontend.onrender.com/) but before visit you must accept the SSL-Zertificate from [Backend](https://193.108.53.177:8443)
   - 🌍 Teamwork: 2 Person on [JaRe719](https://github.com/JaRe719)
