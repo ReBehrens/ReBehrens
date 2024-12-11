@@ -21,25 +21,36 @@ I'm based in Germany and currently exploring the depths of Java development. Wit
 
 ## Top Projects
 
-- [Project_SuperBnB](https://github.com/SuCoBootcamp24/Day85_24_09_17_Project_SuperBnB)
-  - An apartment booking system. this Project is not done yet.
-  - 🌐 Language: Java
+- Morent_Poject
+  - This is a hackathon project the theme was “Learning”. A kind of PnP game with a focus on financial planning.
+  - 🌍 It is [deployed](https://gilded-dice-frontend.onrender.com/) but before visit you must accept the SSL-Zertificate from [Backend](https://193.108.53.177:8443)
+  - 🌍 Teamwork: 2 Person on [JaRe719](https://github.com/JaRe719)
+  - [Backend](https://github.com/JaRe719/Gilded_Dice_Backend)
+    - This is the Backend Repo
+    - 🌐 Language: Java (Spring Boot, LLM, JWT, PostgreSQL)
+  - [Frontend](https://github.com/JaRe719/gilded_dice_frontend)
+    - This is the Frontend Repo.
+    -  🌐 Language: JavaScript (React, RouterDom)
 
-- [Morent_Backend](https://github.com/SuCoBootcamp24/Day113_EndProject_Morent_Backend)
-  - Endproject from dev bootcamp we have build a CarRent system. this is the Backend Repo
-  - 🌐 Language: Java
+- Morent_Poject
+  - Endproject from dev bootcamp we have build a CarRent system.
   - 🌍 Teamwork: 3 Person on [SuCoBootcamp24](https://github.com/SuCoBootcamp24)
-
-- [Morent_Frontend](https://github.com/SuCoBootcamp24/Day113_EndProject_Morent_Frontend)
-  - Endproject from dev bootcamp we have build a CarRent system. This is the Frontend Repo.
-  -  🌐 Language: JavaScript
-  - 🌍 Teamwork: 3 Person on [SuCoBootcamp24](https://github.com/SuCoBootcamp24)
+  - [Backend](https://github.com/SuCoBootcamp24/Day113_EndProject_Morent_Backend)
+    - This is the Backend Repo
+    - 🌐 Language: Java (Spring Boot, Redis, Email-sending, PostgreSQL, Security-filtering)
+  - [Frontend](https://github.com/SuCoBootcamp24/Day113_EndProject_Morent_Frontend)
+    - This is the Frontend Repo.
+    -  🌐 Language: JavaScript (React, RouterDom)
  
 - [JaRe719/no_shit_day Public](https://github.com/JaRe719/no_shit_day)
   - A funny Hackathon project. a little quiz with an external API
-  - 🌐 Language: JavaScript
+  - 🌐 Language: JavaScript (React, RouterDom)
   - 🌍 Teamwork: 2 Person on [JaRe719](https://github.com/JaRe719)
- 
+
+- [Project_SuperBnB](https://github.com/SuCoBootcamp24/Day85_24_09_17_Project_SuperBnB)
+  - An apartment booking system. this Project is not done yet.
+  - 🌐 Language: Java
+  
 - [camper_roof_light](https://github.com/ReBehrens/camper_roof_light)
   - A C++ project focused on creating an interactive camper roof lighting system.
   -  🌐 Language: C++ 
