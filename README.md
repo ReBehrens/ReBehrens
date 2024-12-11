@@ -68,21 +68,6 @@ I'm based in Germany and currently exploring the depths of Java development. Wit
 <a src="https://github.com/JaRe719"><img src="https://avatars.githubusercontent.com/u/143851812?s=200&v=4" alt="JaRe719 Logo" width="100"/></a>
 - A hobbyist developer organization consisting of two developers. We work together on projects to explore new technologies and improve our skills.
 
-
-## GitHub Stats
-
-🚀 Public Repositories: 4 | 👥 Followers: 6 | 👤 Following: 10
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReBehrens&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
-## Recent Activity
-
-Here are some of my latest contributions on GitHub:
-
-- **Pushed changes** to [SuCoBootcamp24/Day113_EndProject_Morent_Frontend](https://github.com/SuCoBootcamp24/Day113_EndProject_Morent_Frontend) on November 12, 2024.
-- **Published release** for version 1.1 of [Day113_EndProject_Morent_Frontend](https://github.com/SuCoBootcamp24/Day113_EndProject_Morent_Frontend/releases/tag/V1.1) on November 11, 2024.
-- **Merged pull request** #38 on November 11, 2024.
-
 ## Connect with Me
 
 Feel free to connect with me on:
