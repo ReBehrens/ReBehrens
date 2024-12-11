@@ -21,7 +21,7 @@ I'm based in Germany and currently exploring the depths of Java development. Wit
 
 ## Top Projects
 
-- Gilded Dice
+- JaRe719/Gilded Dice (not finished yet)
   - This is a hackathon project the theme was “Learning”. A kind of PnP game with a focus on financial planning.
   - 🌍 It is [deployed](https://gilded-dice-frontend.onrender.com/) but before visit you must accept the SSL-Zertificate from [Backend](https://193.108.53.177:8443)
   - 🌍 Teamwork: 2 Person on [JaRe719](https://github.com/JaRe719)
@@ -42,8 +42,9 @@ I'm based in Germany and currently exploring the depths of Java development. Wit
     - This is the Frontend Repo.
     -  🌐 Language: JavaScript (React, RouterDom)
  
-- [JaRe719/no_shit_day Public](https://github.com/JaRe719/no_shit_day)
+- [JaRe719/No-Shit-Day](https://github.com/JaRe719/no_shit_day)
   - A funny Hackathon project. a little quiz with an external API
+  - 🌍 It is [deployed](https://no-shit-day.onrender.com)
   - 🌐 Language: JavaScript (React, RouterDom)
   - 🌍 Teamwork: 2 Person on [JaRe719](https://github.com/JaRe719)
 
